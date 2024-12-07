@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Environment files
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE and editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Yarn
+# Do NOT ignore yarn.lock - important for consistent dependencies
+# yarn.lock is included by default, no need to add it to .gitignore
+
+# npm
+# Do NOT ignore package-lock.json - important for consistent dependencies
+package-lock.json
+# TypeScript
+*.tsbuildinfo
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
